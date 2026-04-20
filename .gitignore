@@ -1,0 +1,22 @@
+# Daten
+data/raw/
+data/processed/
+
+# Modelle
+models/
+
+# MLflow
+mlruns/
+
+# Python
+__pycache__/
+*.pkl
+*.joblib
+*.pyc
+.env
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# PyCharm
+.idea/
