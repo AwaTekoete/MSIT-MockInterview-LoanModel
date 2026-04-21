@@ -1,0 +1,3 @@
+Modell,Test Precision,Test Recall,Test F1,Test PR-AUC,Test MCC,Nested CV PR-AUC,Gap PR-AUC,Gap Precision,Champion
+v1 (Champion),0.8667,0.8904,0.8784,0.9146,0.5578,0.8693,0.1307,0.1705,✅ Ja
+v2 (Gap-Penalty),0.84,0.863,0.8514,0.9077,0.4593,0.8553,0.1324,0.1369,❌ Nein
