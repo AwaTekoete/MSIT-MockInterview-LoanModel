@@ -1,0 +1,6 @@
+Feature,Pearson r,Pearson p,Pearson signifikant?,Point-Biserial r,PB p-Wert,PB signifikant?,Mutual Information,MI Rang
+credit_history,0.4452,0.0,Ja,0.4452,0.0,Ja,0.0895,1
+applicant_income,-0.0465,0.343178,Nein,-0.0465,0.343178,Nein,0.0301,2
+loan_amount,-0.0817,0.095097,Nein,-0.0817,0.095097,Nein,0.0005,3
+coapplicant_income,-0.098,0.045136,Ja,-0.098,0.045136,Ja,0.0,4
+loan_amount_term,0.0418,0.393563,Nein,0.0418,0.393563,Nein,0.0,4
