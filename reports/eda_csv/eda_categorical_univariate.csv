@@ -1,0 +1,7 @@
+Feature,N,Kardinalität,Top Kategorie,Dominanzindex,Dominanz %,Imbalance Ratio,Entropie,Max Entropie,Entropie / Max,Chi2 Stat,Chi2 p-Wert,Chi2 dof,Unabhängig? (p>0.05),Cramér's V,Assoziation
+gender,510,2,Male,0.8059,80.59,4.15,0.71,1.0,0.71,0.0341,0.853441,1,Ja,0.0082,Schwach
+married,516,2,Yes,0.6357,63.57,1.74,0.9462,1.0,0.9462,4.1883,0.040704,1,Nein,0.0901,Schwach
+dependents,504,4,0,0.5833,58.33,7.17,1.6118,2.0,0.8059,2.5138,0.472806,3,Ja,0.0706,Schwach
+education,514,2,Graduate,0.7821,78.21,3.59,0.7563,1.0,0.7563,0.5885,0.443009,1,Ja,0.0338,Schwach
+self_employed,501,2,No,0.8723,87.23,6.83,0.5512,1.0,0.5512,0.6087,0.435271,1,Ja,0.0349,Schwach
+property_area,515,3,Semiurban,0.3864,38.64,1.33,1.5749,1.585,0.9937,12.713,0.001735,2,Nein,0.1571,Moderat

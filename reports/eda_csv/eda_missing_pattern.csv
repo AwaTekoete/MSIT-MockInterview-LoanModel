@@ -1,0 +1,14 @@
+,N Missing,Missing %,N Valid,Dtype
+self_employed,34,6.04,529,str
+coapplicant_income,34,6.04,529,float64
+dependents,32,5.68,531,str
+loan_amount,30,5.33,533,float64
+loan_id,29,5.15,534,str
+gender,29,5.15,534,str
+loan_amount_term,28,4.97,535,float64
+loan_status,28,4.97,535,float64
+applicant_income,26,4.62,537,float64
+credit_history,22,3.91,541,float64
+education,22,3.91,541,str
+property_area,21,3.73,542,str
+married,19,3.37,544,str

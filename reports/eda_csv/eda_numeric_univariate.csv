@@ -1,0 +1,6 @@
+Feature,N,Mean,Std,Min,Max,Skewness,Skew Interpretation,Kurtosis (Excess),Kurt Interpretation,Shapiro-Wilk Stat,Shapiro-Wilk p,Normalverteilt?,Dip Stat,Multimodal?,IQR Lower,IQR Upper,N Outliers (IQR),Outlier %,Yeo-Johnson Lambda
+applicant_income,537,5379.37,6064.81,150.0,81000.0,6.7403,Stark rechtsschief,65.3386,Leptokurtisch (schwere Tails),0.4716,0.0,Nein,0.001862,Unimodal,-1492.0,10204.0,46,8.57,-0.0862
+coapplicant_income,529,1692.6,3093.38,0.0,41667.0,7.2965,Stark rechtsschief,78.1984,Leptokurtisch (schwere Tails),0.469,0.0,Nein,0.00189,Unimodal,-3499.5,5832.5,18,3.4,0.0722
+loan_amount,533,147.43,85.85,9.0,650.0,2.4286,Stark rechtsschief,8.3607,Leptokurtisch (schwere Tails),0.7943,0.0,Nein,0.001876,Unimodal,-8.0,280.0,32,6.0,0.0746
+loan_amount_term,535,341.67,65.3,12.0,480.0,-2.4295,Stark linksschief,6.8203,Leptokurtisch (schwere Tails),0.467,0.0,Nein,0.001869,Unimodal,360.0,360.0,75,14.02,3.0997
+credit_history,541,0.88,0.33,0.0,1.0,-2.3164,Stark linksschief,3.3781,Leptokurtisch (schwere Tails),0.3788,0.0,Nein,0.001848,Unimodal,1.0,1.0,66,12.2,11.7986
