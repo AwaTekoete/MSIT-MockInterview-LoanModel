@@ -311,7 +311,11 @@ with tab1:
             [metrics["fn"], metrics["tp"]]
         ])
 
-        im = ax.imshow(cm_data, cmap="YlOrBr", aspect="auto")
+        from matplotlib.colors import LinearSegmentedColormap
+        cmap_store44 = LinearSegmentedColormap.from_list(
+            "store44", ["#2A2A2A", "#4A3A1A", "#F5A623"]
+        )
+        im = ax.imshow(cm_data, cmap=cmap_store44, aspect="auto")
         ax.set_xticks([0, 1])
         ax.set_yticks([0, 1])
         ax.set_xticklabels(["Abgelehnt (0)", "Genehmigt (1)"],
